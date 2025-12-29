@@ -1,0 +1,39 @@
+# ===============================
+# Large data & generated outputs
+# ===============================
+
+solution_space/
+analysis_outputs/
+autoencoder/
+kaggle_dataset/
+dataset-metadata.json
+*.csv
+*.zip
+
+# ===============================
+# Logs (keep project_log.md)
+# ===============================
+
+# project_log.md is intentionally tracked
+
+# ===============================
+# Python / system
+# ===============================
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+.venv
+venv/
+
+.DS_Store
+
+# ===============================
+# IDE
+# ===============================
+
+.idea/
+.vscode/
