@@ -1,3 +1,4 @@
+
 N-QUEENS YAPISAL DÜZENLERİ PROJESİ
 (Discovering Structural Regularities in the N-Queens Solution Space Using Machine Learning)
 
