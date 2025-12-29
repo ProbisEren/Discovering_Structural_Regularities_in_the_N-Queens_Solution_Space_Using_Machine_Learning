@@ -1,3 +1,4 @@
+```text
 
 N-QUEENS YAPISAL DÜZENLERİ PROJESİ
 (Discovering Structural Regularities in the N-Queens Solution Space Using Machine Learning)
@@ -215,3 +216,4 @@ The dataset includes:
 - Autoencoder-learned latent representations
 
 All data can be fully regenerated using the scripts provided in this repository.
+```
