@@ -14,56 +14,56 @@ Makine öğrenmesi bu projede kesin çözüm üretmek için değil, çözüm uza
 PROJE YAPISI
 
 analysis_outputs
-global_structure_summary
-pca_variance_vs_N.png
-silhouette_vs_N.png
-summary_metrics.csv
-per_N_solution_space_analysis
-N4
-N5
-N6
-N7
-N8
-N9
-N10
-N11
-N12
-N13
-N14
-N15
+  global_structure_summary
+    pca_variance_vs_N.png
+    silhouette_vs_N.png
+    summary_metrics.csv
+
+  per_N_solution_space_analysis
+    N4
+    N5
+    N6
+    N7
+    N8
+    N9
+    N10
+    N11
+    N12
+    N13
+    N14
+    N15
 
 scripts
-generate_solution_space.py
-extract_handcrafted_features.py
-autoencoder_analysis.py
-pca_clustering_analysis.py
+  generate_solution_space.py
+  extract_handcrafted_features.py
+  autoencoder_analysis.py
+  pca_clustering_analysis.py
 
 solution_space
-raw_solutions
-nqueen_N4.csv
-nqueen_N5.csv
-…
-nqueen_N15.csv
+  raw_solutions
+    nqueen_N4.csv
+    nqueen_N5.csv
+    …
+    nqueen_N15.csv
 
-handcrafted_features
-features_n4.csv
-features_n5.csv
-…
-features_n15.csv
-summary_features.csv
+  handcrafted_features
+    features_n4.csv
+    features_n5.csv
+    …
+    features_n15.csv
+    summary_features.csv
 
-learned_latent_space
-latent_N4.csv
-latent_N5.csv
-…
-latent_N15.csv
+  learned_latent_space
+    latent_N4.csv
+    latent_N5.csv
+    …
+    latent_N15.csv
 
 project_log.md
 
-Büyük veri dosyaları GitHub’a yüklenmemiştir.
-Tüm veriler script’ler aracılığıyla yeniden üretilebilir yapıdadır.
-Ham ve işlenmiş veriler ayrıca Kaggle üzerinden paylaşılacaktır.
-
+Büyük veri dosyaları GitHub reposuna yüklenmemiştir.
+Tüm veriler bu repository’de bulunan script’ler aracılığıyla yeniden üretilebilir yapıdadır.
+Ham ve işlenmiş veri setleri ayrıca Kaggle üzerinden paylaşılmaktadır.
 ⸻
 
 	1.	ADIM – N-QUEENS ÇÖZÜM UZAYININ ÜRETİLMESİ
